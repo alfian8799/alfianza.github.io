@@ -1,0 +1,44 @@
+body {
+  min-height: 2000px;
+}
+section {
+  padding-top: 80px;
+}
+
+.navbar {
+  background-color: #535157;
+}
+.navbar-nav a {
+  padding: 0px 30px;
+  color: aliceblue;
+  border: bottom 1px solid rgb(#bfc3c8);
+}
+
+.jumbotron {
+  padding-top: 100px;
+  text-align: center;
+  background-color: #bfc3c8;
+}
+.jumbotron h1 {
+  font-size: 40px;
+}
+
+section .about p {
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+#project {
+  background-color: #bfc3c8;
+}
+
+footer {
+  text-align: center;
+  color: aliceblue;
+  background-color: #535157;
+  padding: 20px 0px;
+}
+footer a {
+  color: aliceblue;
+  text-decoration: none;
+}
